@@ -32,7 +32,7 @@
     <string name="regex_pattern_block_hint">Blok Patronen</string>
     <string name="regex_pattern_allow_helper_text">Sta oproepen toe van nummers die overeenkomen met door komma's gescheiden reguliere expressies.</string>
     <string name="regex_pattern_block_helper_text">Blokkeer oproepen van nummers die overeenkomen met door komma's gescheiden reguliere expressies.</string>
-    <string name="regex_pattern_error">"Ongeldige regex!"</string>
+    <string name="regex_pattern_error">Ongeldige regex!</string>
     <string name="repeated_main">Herhaaldelijk</string>
     <string name="repeated_description">X Sta geregistreerde oproepen uit hetzelfde nummer toe binnen een ingestelde tijd.</string>
     <string name="repeated_settings_description">Het nummer moet lager zijn dan de minuten. Aangezien Android het resultaat snijdt, moeten weergaven buiten het cache -interval liggen.</string>

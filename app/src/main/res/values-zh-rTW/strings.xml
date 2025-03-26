@@ -28,7 +28,6 @@
     <string name="groups_local_mobile">本地和流動</string>
     <string name="groups_local_mobile_description">允許來自與你的國際電話區號相同並且是流動電話的號碼來電。</string>
     <string name="regex_main">正規表示式</string>
-    <string name="regex_pattern_hint">模式</string>
     <string name="regex_pattern_helper_text">允許來自與正規表示式匹配的號碼來電。</string>
     <string name="messages_main">訊息</string>
     <string name="messages_inbox">收件匣</string>
